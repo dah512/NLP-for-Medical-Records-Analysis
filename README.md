@@ -1,6 +1,6 @@
-# **Course Title**<br/>by **Course Author**
+# **Natural Language Processing (NLP)**<br/>by **Darrell A. Hall, MD**
 
-README and sample lesson deadline: YYYY-MM-DD 
+README and sample lesson deadline: 1-01-20
 
 As part of the 'Course Spec' process, you will need to complete the following tasks:
 
